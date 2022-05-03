@@ -1,1 +1,1 @@
-# my-sdtudy-site
+# my-study-site
